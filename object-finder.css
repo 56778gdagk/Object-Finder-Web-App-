@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+#note{
+    background-color: yellow;
+    margin: 0;
+    font-family: 'Lobster', cursive;
+    letter-spacing: 1px;
+}
+
+#heading{
+    background-color: yellow;
+    margin: 0;
+    font-family: 'Tapestry', cursive;
+    letter-spacing: 2px;
+}
+
+label{
+    font-size: 25px;
+    background-color: lightblue;
+    width: 100%;
+}
+canvas{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-color: yellow;
+    box-shadow: 10px 10px 10px lawngreen;
+}
