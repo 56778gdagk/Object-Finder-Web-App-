@@ -22,7 +22,6 @@ label{
     width: 100%;
 }
 canvas{
-    background-color: whitesmoke;
     border-radius: 10px;
     border-color: yellow;
     box-shadow: 10px 10px 10px lawngreen;
