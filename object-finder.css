@@ -26,3 +26,18 @@ canvas{
     border-color: yellow;
     box-shadow: 10px 10px 10px lawngreen;
 }
+#status_model{
+    color: red;
+    font-weight: bold;
+    background-color: blue;
+}
+#status_whether{
+    color: lawngreen;
+    background-color:darkorange;
+    font-weight: bold;
+
+}
+
+#object_status{
+    width: 30%;
+}
